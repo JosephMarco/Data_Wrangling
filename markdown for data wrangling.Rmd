@@ -2,7 +2,7 @@
 title: "Data Wrangling Exercise 1"
 author: "Joe Marco"
 date: "July 21, 2017"
-output: html_document
+output: word_document
 ---
 
 ### Step 1: Load Librarys for packages related to data manipulation
